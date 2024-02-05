@@ -1,0 +1,20 @@
+/* Login.css */
+
+.login-container {
+  background: url('') center center no-repeat;
+  background-size: cover;
+  background-image: url("");
+  padding: 24px;
+  width: 300px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(190, 57, 57, 0.1);
+}
+
+.title {
+  text-align: center;
+  color: #1890ff;
+  font-family: 'Arial, sans-serif';
+  margin-bottom: 24px;
+}
+
+/* ... autres styles ... */

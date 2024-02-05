@@ -1,0 +1,21 @@
+/* Créez un fichier ParticipationPage.css */
+
+.ant-typography {
+    color: #2C3E50; /* Couleur du texte principal */
+  }
+  
+  .ant-btn-primary {
+    background: #efedea; /* Couleur du bouton principal */
+    border: none;
+  }
+  
+  .ant-btn-primary:hover {
+    background: #217DBB; /* Couleur au survol du bouton principal */
+  }
+  
+  .ant-modal-content {
+    background: #ECF0F1; /* Couleur de fond du contenu modal */
+  }
+  
+  /* Ajoutez d'autres styles selon vos besoins */
+  

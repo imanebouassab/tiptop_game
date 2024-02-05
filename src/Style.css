@@ -1,0 +1,19 @@
+/* styles.css */
+
+.congratulations-modal {
+  background: url('../img/1.gif') no-repeat center center fixed;
+  background-size: cover;
+}
+
+.animated-background {
+  animation: animatedBackground 10s ease-in-out infinite alternate;
+}
+
+@keyframes animatedBackground {
+  from {
+    background-color: #e4405f;
+  }
+  to {
+    background-color: #1da1f2;
+  }
+}
